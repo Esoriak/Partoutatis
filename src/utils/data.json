@@ -1,0 +1,68 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "name": "BON"
+     },
+     {
+      "id": 2,
+      "name": "En fait"
+     },
+     {
+      "id": 3,
+      "name": "Ce qu'il s'est passé"
+     },
+     {
+      "id": 4,
+      "name": "C'est que ...."
+     },
+     {
+      "id": 5,
+      "name": "J'ai pas réussi ..."
+     },
+     {
+      "id": 6,
+      "name": "Mais bon,"
+     },
+     {
+      "id": 7,
+      "name": "Ca remplit"
+     },
+     {
+      "id": 8,
+      "name": "et puis dans l'absolu"
+     },
+     {
+      "id": 9,
+      "name": "....."
+     },
+     {
+      "id": 10,
+      "name": "Non Ok"
+     },
+     {
+      "id": 11,
+      "name": "j'ai pas d'excuse"
+     },
+     {
+      "id": 12,
+      "name": "sorry"
+     },
+     {
+      "id": 13,
+      "name": "j'ai raté le coche"
+     },
+     {
+      "id": 14,
+      "name": "j'ai manqué de temps."
+     },
+     {
+      "id": 15,
+      "name": "Je me serais amusée au moins :D "
+     },
+     {
+      "id": 16,
+      "name": "La potion magique ça existe pas."
+     }
+  ]
+}
